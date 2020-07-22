@@ -103,7 +103,7 @@ int main(int argc, char* argv[])
     nsvmInitialize();
     pminfoInitialize();
     consoleInit(NULL);
-    strcpy(url, "https://dns.switchbru.com");
+    strcpy(url, "https://www.netflix.com");
     printf("Press [L] to choose url\n");
     printf("Press [R] to set default url\n");
     printf("Press [X] to reset default url\n");
