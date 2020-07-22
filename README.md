@@ -1,6 +1,6 @@
-# NXBrowser
+# NetflixNX
 **Launches the Internet Browser applet within a NSP.**
-_To build BrowseNX, please supply your own prod.keys._
+_To build NetflixNX, please supply your own prod.keys._
 ## Credit
 - p-sam - Supernag fix via sysmodule included in each release: https://github.com/p-sam/switch-sys-tweak AND wifiwebauthapplet fallback: https://github.com/switchbrew/libnx/commit/8360e561c5e48f7a2a704df3c97657e0d879629b not yet used in a libnx release
 - XorTroll - Working out the browser applet arguments and for the nsp structure/build method.
